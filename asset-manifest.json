@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/dasha-app/static/css/main.073c9b0a.css",
-    "main.js": "/dasha-app/static/js/main.5da3498e.js",
-    "static/js/787.3f93528d.chunk.js": "/dasha-app/static/js/787.3f93528d.chunk.js",
-    "static/media/logo.svg": "/dasha-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/dasha-app/static/css/main.7388a2a9.css",
+    "main.js": "/dasha-app/static/js/main.c3e260cb.js",
+    "static/media/gif3.mp4": "/dasha-app/static/media/gif3.dc044e6c1dcf3debeb1a.mp4",
+    "static/media/gif2.mp4": "/dasha-app/static/media/gif2.65517b6194445ff22632.mp4",
     "index.html": "/dasha-app/index.html",
-    "main.073c9b0a.css.map": "/dasha-app/static/css/main.073c9b0a.css.map",
-    "main.5da3498e.js.map": "/dasha-app/static/js/main.5da3498e.js.map",
-    "787.3f93528d.chunk.js.map": "/dasha-app/static/js/787.3f93528d.chunk.js.map"
+    "main.7388a2a9.css.map": "/dasha-app/static/css/main.7388a2a9.css.map",
+    "main.c3e260cb.js.map": "/dasha-app/static/js/main.c3e260cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5da3498e.js"
+    "static/css/main.7388a2a9.css",
+    "static/js/main.c3e260cb.js"
   ]
 }

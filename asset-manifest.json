@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dasha-app/static/css/main.073c9b0a.css",
+    "main.js": "/dasha-app/static/js/main.5da3498e.js",
+    "static/js/787.3f93528d.chunk.js": "/dasha-app/static/js/787.3f93528d.chunk.js",
+    "static/media/logo.svg": "/dasha-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dasha-app/index.html",
+    "main.073c9b0a.css.map": "/dasha-app/static/css/main.073c9b0a.css.map",
+    "main.5da3498e.js.map": "/dasha-app/static/js/main.5da3498e.js.map",
+    "787.3f93528d.chunk.js.map": "/dasha-app/static/js/787.3f93528d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5da3498e.js"
+  ]
+}
